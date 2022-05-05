@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav Gupta
 - 👀 I’m interested in Front End development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Project 
+- 💞️ I’m currently on a break for some years from programming 
 - 📫 How to reach me abhinav.gupta@outlook.de
 
 <!---
