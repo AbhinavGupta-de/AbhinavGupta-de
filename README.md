@@ -10,6 +10,6 @@ Hello there! 👋 My name is Abhinav Gupta, and I'm an 18-year-old student curre
 
 I am excited about the endless possibilities in the world of technology and look forward to contributing my skills and creativity to building innovative solutions. Let's connect and explore the exciting possibilities that lie ahead!
 
-Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/abhinav-gupta/](https://www.linkedin.com/in/abhinav-gupta-a6422026b/)) or email at [abhinav.gupta@outlook.de](mailto:abhinav.gupta@outlook.de).
+Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/abhinav-gupta-a6422026b/]) or email at [abhinav.gupta@outlook.de](mailto:abhinav.gupta@outlook.de).
 
 Let's embark on this tech journey together! 🚀
