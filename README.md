@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Abhinav Gupta
-- 👀 I’m interested in Front End development
-- 🌱 I’m currently learning React
-- 💞️ I’m currently on a break for some years from programming 
-- 📫 How to reach me abhinavgupta4505@gmail.com
+# About Me
 
-<!---
-AbhinavGupta-de/AbhinavGupta-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there! 👋 My name is Abhinav Gupta, and I'm an 18-year-old student currently pursuing an integrated Bachelors and Masters course in Computer Science at Scaler School of Technology. I have a genuine passion for technology and love to explore new advancements in the field.
+
+🚀 Technology Enthusiast: I find joy in constantly learning and keeping myself updated with the latest technologies. I am particularly drawn to frontend development, and I am skilled in various tools and frameworks such as React.js, HTML, CSS, SASS, JavaScript, Bootstrap, and jQuery.
+
+💻 Diverse Technical Skills: Apart from frontend technologies, I have hands-on experience working with Java, Python, Spring framework, and Django. This diverse skill set allows me to approach problems from different angles and craft efficient solutions.
+
+📚 The Power of Learning: Learning has always been at the core of my journey, and I believe that it is the key to personal and professional growth. I am eager to take on new challenges and strive to make an impact in the tech industry.
+
+I am excited about the endless possibilities in the world of technology and look forward to contributing my skills and creativity to building innovative solutions. Let's connect and explore the exciting possibilities that lie ahead!
+
+Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/abhinav-gupta/](https://www.linkedin.com/in/abhinav-gupta-a6422026b/)) or email at [abhinav.gupta@outlook.de](mailto:abhinav.gupta@outlook.de).
+
+Let's embark on this tech journey together! 🚀
