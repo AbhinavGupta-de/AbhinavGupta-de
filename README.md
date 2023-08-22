@@ -13,3 +13,7 @@ I am excited about the endless possibilities in the world of technology and look
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/abhinav-gupta-a6422026b/) or email at [abhinav.gupta@outlook.de](mailto:abhinav.gupta@outlook.de).
 
 Let's embark on this tech journey together! 🚀
+
+## My Git Hub Stats
+
+(https://github-readme-stats.vercel.app/api/?username=abhinavgupta-de&count_private=true&theme=tokyonight&showicons=true)
