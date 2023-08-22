@@ -16,4 +16,4 @@ Let's embark on this tech journey together! 🚀
 
 ## My Git Hub Stats
 
-(https://github-readme-stats.vercel.app/api/?username=abhinavgupta-de&count_private=true&theme=tokyonight&showicons=true)
+[Github stats](https://github-readme-stats.vercel.app/api/?username=abhinavgupta-de&count_private=true&theme=tokyonight&showicons=true)
