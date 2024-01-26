@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Skilled In Web Dev 🌐<br>🧠 Mastering DSA Algorithms 💡<br>🔗 Open to Collaboration on Interesting Projects 🤝<br>📬 Contact Me: abhinav.gupta@outlook.de 📧
+✨ Skilled In Web Dev 🌐<br>🧠 Mastering DSA Algorithms💡<br>🔗 Open to Collaboration on Interesting Projects 🤝<br>📬 Contact Me: abhinav.gupta@outlook.de 📧
 
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavgpt/)
